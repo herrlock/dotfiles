@@ -8,3 +8,4 @@ alias grep='grep --color=auto'
 alias g=gradle
 
 function concat { local IFS="$1"; shift; echo "$*"; }
+function title { echo -e '\033]2;'$*'\007'; }
