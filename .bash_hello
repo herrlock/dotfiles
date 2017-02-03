@@ -1,0 +1,5 @@
+_user=$USERNAME
+_gitversionstring=$(git --version)
+_gitversion=${_gitversionstring:12}
+echo "Hello $_user"
+echo "Using Git $_gitversion"
