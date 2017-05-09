@@ -1,0 +1,70 @@
+#!/bin/sh
+
+# set title
+echo -e '\033]2;gitdaemon\007';
+
+# garbage-collector-counter
+gc_cnt=1
+
+# all folders containing git-repos
+gitfolders=$($(dirname $0)/gitfolders)
+
+# loop until SIGINT (Ctrl-C)
+while :; do
+
+	# run git gc every sixth time (once per hour)
+	if [ $gc_cnt -eq 6 ]
+	then
+		echo GC:
+		for f in $gitfolders; do
+			(
+				cd $f;pwd
+				# clean, answer "n" if git gc asks for input
+				yes n | git gc
+			)
+		done
+		# reset counter
+		gc_cnt=1
+		clear
+	else
+		# increment counter
+		gc_cnt=$(($gc_cnt + 1))
+	fi
+
+	# fetch each gitfolder in background-tasks
+	echo Fetch:
+	for f in $gitfolders; do
+		(
+			cd $f
+			# update
+			git fetch --all --prune --tags
+			# run git svn fetch is repo is git-svn
+			if [ -d .git/svn ]; then
+				git svn fetch
+			fi
+		) &
+	done
+	# wait for all fetch-tasks to complete
+	wait
+	clear
+
+	# print status for each gitfolder
+	echo Branches:
+	for f in $gitfolders; do
+		(
+			cd $f;pwd
+			# list branch-stats, only show lines that contain a colon (probably a branch that is not up to date)
+			git branch -vv | grep --color=auto "\[.*:.*\]"
+		)
+	done
+	
+	# print dot ten times, wait a total of 600 seconds
+	for i in {1..10}; do
+		# echo a dot
+		echo -n .
+		# wait 60 seconds
+		sleep 60
+	done
+	clear
+	
+done
