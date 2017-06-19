@@ -1,4 +1,6 @@
 
+alias rm="rm -I"
+
 alias ll="ls -lAh"
 alias lg='ll --group-directories-first'
 
