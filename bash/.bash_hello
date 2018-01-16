@@ -1,5 +1,12 @@
+#!/bin/bash
+
 _user=$USERNAME
 _gitversionstring=$(git --version)
 _gitversion=${_gitversionstring:12}
 echo "Hello $_user"
 echo "Using Git $_gitversion"
+
+# execute "fortune | cowsay" if both are installed
+if (command -v fortune && command -v cowsay) &> /dev/null; then
+	fortune | cowsay
+fi
