@@ -8,5 +8,5 @@ echo "Using Git $_gitversion"
 
 # execute "fortune | cowsay" if both are installed
 if (command -v fortune && command -v cowsay) &> /dev/null; then
-	fortune | cowsay
+	fortune | cowsay -n
 fi
