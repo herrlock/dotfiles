@@ -7,6 +7,9 @@ echo "Hello $_user"
 echo "Using Git $_gitversion"
 
 # execute "fortune | cowsay" if both are installed
-if (command -v fortune && command -v cowsay) &> /dev/null; then
-	fortune | cowsay -n
+if (command -v cowsay && command -v fortune) &> /dev/null; then
+	if [ $(shuf -n 1 -i 0-1) -eq 1 ]; then
+		cowsay_flag="-"$(shuf -n 1 -e b d g p s t w y)
+	fi
+	fortune | cowsay -n $cowsay_flag
 fi
