@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# generate random integer using $RANDOM
+# rnd => random from 0 to 100
+# rnd x => random from 0 to x
+# rnd x y => random from x to y
+min="$1"
+max="$2"
+if [ -z "$min" ]; then
+	max=100
+	min=0
+elif [ -z "$max" ]; then
+	max="$min"
+	min=0
+fi
+num=$RANDOM
+let "num %= (max - min)"
+let "num += min"
+echo $num
