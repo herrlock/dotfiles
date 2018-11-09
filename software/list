@@ -2,4 +2,5 @@ curl
 vim
 git
 htop
+net-tools
 
