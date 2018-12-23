@@ -1,0 +1,3 @@
+#!/bin/bash -ex
+
+sudo apt-get purge `dpkg --list | grep '^[^i]' | awk '{ print $2 }' | tail -n+6`

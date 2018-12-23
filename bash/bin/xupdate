@@ -1,0 +1,5 @@
+#!/bin/bash -ex
+
+sudo apt update
+sudo apt-get dist-upgrade
+apt-get-upgrade
