@@ -1,6 +1,6 @@
 #!/bin/bash
 
-_user=$USERNAME
+_user=${USER:-$USERNAME}
 _gitversionstring=$(git --version)
 _gitversion=${_gitversionstring:12}
 echo "Hello $_user"
