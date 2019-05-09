@@ -1,0 +1,4 @@
+#!/bin/bash
+
+patch /etc/ssh/sshd_config sshd_config.diff
+
