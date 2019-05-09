@@ -16,6 +16,7 @@ export COL_DCYAN="\033[0;36m"
 export COL_CYAN="\033[1;36m"
 export COL_LGRAY="\033[0;36m"
 export COL_WHITE="\033[1;36m"
+export COL_RESET="\033[0m"
 
 print_colors() {
 	for attr in 0 1 4 5 7 ; do
