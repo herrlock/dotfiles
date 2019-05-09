@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo apt-get install linux-headers-amd64 gcc make perl
