@@ -1,0 +1,4 @@
+#!/bin/bash
+
+patch /etc/nginx/sites-available/default default.diff
+

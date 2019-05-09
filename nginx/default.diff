@@ -1,0 +1,11 @@
+--- default	2019-05-09 13:50:27.097495900 +0200
++++ default	2019-05-09 13:50:18.823512000 +0200
+@@ -68,6 +68,8 @@
+ 	#location ~ /\.ht {
+ 	#	deny all;
+ 	#}
++
++	add_header X-Clacks-Overhead "GNU Terry Pratchett";
+ }
+ 
+ 
