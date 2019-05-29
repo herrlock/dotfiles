@@ -1,0 +1,48 @@
+# This is Git's per-user configuration file.
+
+#
+[user]
+	name = <name>
+	email = <email>
+	signingKey = <gpg-key>
+#
+[http]
+	proxy = <proxy>
+#
+[alias]
+	f = fetch
+	c = commit
+	s = status
+	p = push
+	b = branch
+	co = checkout
+	cp = cherry-pick
+#
+[core]
+	pager = less -x1,5
+#
+[commit]
+	gpgSign = true
+#
+[merge]
+	conflictStyle = diff3
+#
+[log]
+	showSignature = true
+#
+[rebase]
+	autoStash = true
+	missingCommitsCheck = error
+#
+[push]
+	default = nothing
+#
+[gc]
+	auto = 500
+#
+[pack]
+	threads = 2
+#
+[gui]
+	tabsize = 4
+#
