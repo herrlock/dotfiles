@@ -1,0 +1,20 @@
+#!/bin/bash
+
+if [[ -r gradle/wrapper/gradle-wrapper.properties ]]; then
+	bindir="$(dirname $(readlink -f $0))"
+	wrapper_url="$(grep distributionUrl gradle/wrapper/gradle-wrapper.properties | cut -d '=' -f 2)"
+	wrapper_file="$(echo $wrapper_url | grep -Eo 'gradle-[0-9]+.[0-9]+(.[0-9]+)?-bin.zip$')"
+	wrapper_version="$(echo $wrapper_file | grep -Eo '[0-9]+.[0-9]+(.[0-9]+)?')"
+	if [[ $wrapper_version ]]; then
+		if [[ -x $bindir/gradle-$wrapper_version ]]; then
+			"$bindir"/"gradle-$wrapper_version" "$@"
+		else
+			wrapper_main_version=$(echo $wrapper_version | grep -Eo '^[0-9]+')
+			if [[ $wrapper_main_version && -x $bindir/g$wrapper_main_version ]]; then
+				"$bindir"/"g$wrapper_main_version" "$@"
+			fi
+		fi
+	fi
+else
+	echo no wrapper
+fi

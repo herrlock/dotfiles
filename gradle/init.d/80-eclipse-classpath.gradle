@@ -1,0 +1,10 @@
+
+// configure the eclipse-plugin for all projects that have it applied
+allprojects { project ->
+	if(project.hasProperty('eclipse')) {
+		eclipse.classpath {
+			downloadSources = true
+			downloadJavadoc = true
+		}
+	}
+}

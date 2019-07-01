@@ -1,0 +1,31 @@
+
+initscript {
+	repositories {
+		mavenCentral()
+	}
+	dependencies {
+		// need to use plugin 1.2.0 for gradle < 4.2
+		if(org.gradle.util.GradleVersion.current() < org.gradle.util.GradleVersion.version('4.2')) {
+			classpath 'fr.jcgay:gradle-notifier:1.2.0'
+		} else {
+			classpath 'fr.jcgay:gradle-notifier:3.0.0'
+		}
+	}
+}
+
+rootProject {
+	apply plugin: fr.jcgay.gradle.notifier.GradleNotifierPlugin
+
+	notifier {
+		// use systemtray-notifier
+		implementation = 'systemtray'
+		systemtray {
+			wait = 4
+		}
+		growl {
+			host = 'localhost'
+			port = 23053
+			// password = 'helloworld'
+		}
+	}
+}
