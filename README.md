@@ -1,4 +1,4 @@
 # dotfiles
 
-A collection of configuration files (most starting with a dot)
+A collection of configuration files (some starting with a dot)
 
