@@ -1,0 +1,16 @@
+
+Git
+https://github.com/git-for-windows/git/releases/download/v2.25.1.windows.1/Git-2.25.1-64-bit.exe
+SHA256:9e442131f7dc0de24db1369a4fe02659c2d642bf60ce6d88e31340eedaa18da1
+https://github.com/git-for-windows/git/releases/download/v2.25.1.windows.1/PortableGit-2.25.1-64-bit.7z.exe
+SHA256:a3f594440431bddbbc434afc88b8acef286c34dcaa20c150a884e274e8696b36
+
+KeePass
+https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.44/KeePass-2.44-Setup.exe/download
+SHA256:7a05107a61106c7fa8fbe9982111a32f9690e9e84d17a2dece61938ef16fe1e7
+
+VirtualBox
+https://download.virtualbox.org/virtualbox/6.1.4/VirtualBox-6.1.4-136177-Win.exe
+SHA256:66218bcdb4f118e7b5d50e1804e5ec7e0b26d20976415b56992ffb0143b8fa7c
+https://download.virtualbox.org/virtualbox/6.1.4/Oracle_VM_VirtualBox_Extension_Pack-6.1.4.vbox-extpack
+SHA256:3b73798d776ff223ea8025b1a45001762f8d4e5bcd1ea61449773c1249935800

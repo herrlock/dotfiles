@@ -1,0 +1,32 @@
+
+https://gradle.org/releases/
+
+Gradle 2
+https://services.gradle.org/distributions/gradle-2.14.1-all.zip
+SHA256:88a910cdf2e03ebbb5fe90f7ecf534fc9ac22e12112dc9a2fee810c598a76091
+https://services.gradle.org/distributions/gradle-2.14.1-bin.zip
+SHA256:cfc61eda71f2d12a572822644ce13d2919407595c2aec3e3566d2aab6f97ef39
+
+Gradle 3
+https://services.gradle.org/distributions/gradle-3.5.1-all.zip
+SHA256:69d99ade952de3727b65a88f3188ee72231ff4e28c2d00aacfc96a42c6d6f303
+https://services.gradle.org/distributions/gradle-3.5.1-bin.zip
+SHA256:8dce35f52d4c7b4a4946df73aa2830e76ba7148850753d8b5e94c5dc325ceef8
+
+Gradle 4
+https://services.gradle.org/distributions/gradle-4.10.3-all.zip
+SHA256:336b6898b491f6334502d8074a6b8c2d73ed83b92123106bd4bf837f04111043
+https://services.gradle.org/distributions/gradle-4.10.3-bin.zip
+SHA256:8626cbf206b4e201ade7b87779090690447054bc93f052954c78480fa6ed186e
+
+Gradle 5
+https://services.gradle.org/distributions/gradle-5.6.4-all.zip
+SHA256:abc10bcedb58806e8654210f96031db541bcd2d6fc3161e81cb0572d6a15e821
+https://services.gradle.org/distributions/gradle-5.6.4-bin.zip
+SHA256:1f3067073041bc44554d0efe5d402a33bc3d3c93cc39ab684f308586d732a80d
+
+Gradle 6
+https://services.gradle.org/distributions/gradle-6.2-all.zip
+SHA256:f016e66d88c2f9adb5b6e7dff43a363b8c2632f18b4ad6f365f49da34dd57db8
+https://services.gradle.org/distributions/gradle-6.2-bin.zip
+SHA256:b93a5f30d01195ec201e240f029c8b42d59c24086b8d1864112c83558e23cf8a
