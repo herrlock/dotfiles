@@ -1,9 +1,9 @@
 
 Git
-https://github.com/git-for-windows/git/releases/download/v2.25.1.windows.1/Git-2.25.1-64-bit.exe
-SHA256:9e442131f7dc0de24db1369a4fe02659c2d642bf60ce6d88e31340eedaa18da1
-https://github.com/git-for-windows/git/releases/download/v2.25.1.windows.1/PortableGit-2.25.1-64-bit.7z.exe
-SHA256:a3f594440431bddbbc434afc88b8acef286c34dcaa20c150a884e274e8696b36
+https://github.com/git-for-windows/git/releases/download/v2.26.0.windows.1/Git-2.26.0-64-bit.exe
+SHA256:c8cd522b8a1eacd421a10591227cc6279f31485876462cd9fc335914584429f5
+https://github.com/git-for-windows/git/releases/download/v2.26.0.windows.1/PortableGit-2.26.0-64-bit.7z.exe
+SHA256:f14aeccf0b63700c13a9c3829c4b9a6d3933d6cc5adfbc52b5aa62921725fb73
 
 KeePass
 https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.44/KeePass-2.44-Setup.exe/download
