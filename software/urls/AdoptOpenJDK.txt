@@ -32,10 +32,10 @@ https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%
 SHA256:8b22af85fd2103cfa4c2210ba4c342a67dad7262627144d591858544a5595df1
 
 JDK 11
-https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.7%2B10/OpenJDK11U-jdk_x64_windows_hotspot_11.0.7_10.zip
-SHA256:e5693b06f92395ce246494f2354030bac7504a7dde04a8db48c79abe367a3385
-https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.7%2B10/OpenJDK11U-jre_x64_windows_hotspot_11.0.7_10.zip
-SHA256:bff50795c61b3977eee2474fafe9ba31c1c9c9fd6c4be9a43deb6bfe75424df7
+https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.7%2B10.1/OpenJDK11U-jdk_x64_windows_hotspot_11.0.7_10.zip
+SHA256:ebec62c06c2ad5782e6c364630cadb7591903206e224542563e4c3af5314187c
+https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.7%2B10.1/OpenJDK11U-jre_x64_windows_hotspot_11.0.7_10.zip
+SHA256:4823c8920da365f6d6b2739bb3b61f775e320f2a7cc4c3532bb8eda2f0a29395
 https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.7%2B10/OpenJDK11U-jdk_x64_linux_hotspot_11.0.7_10.tar.gz
 SHA256:ee60304d782c9d5654bf1a6b3f38c683921c1711045e1db94525a51b7024a2ca
 https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.7%2B10/OpenJDK11U-jre_x64_linux_hotspot_11.0.7_10.tar.gz
