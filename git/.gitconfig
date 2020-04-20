@@ -13,12 +13,19 @@
 	f = fetch
 	c = commit
 	s = status
-	p = push
+	p = pull
 	b = branch
 	co = checkout
 	cp = cherry-pick
+	amend = commit --amend
+	amend2 = amend --no-edit
+	cdiff = diff --cached
+#
+[protocol]
+	version = 2
 #
 [core]
+	autocrlf = input
 	pager = less -x1,5
 #
 [commit]
