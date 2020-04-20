@@ -2,14 +2,14 @@
 https://adoptopenjdk.net/archive.html
 
 JDK 8
-https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u242-b08/OpenJDK8U-jdk_x64_windows_hotspot_8u242b08.zip
-SHA256:8288e4d0983019706db89c153d18bfce28d033f646be65c8ae1c33c6c65b943e
-https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u242-b08/OpenJDK8U-jre_x64_windows_hotspot_8u242b08.zip
-SHA256:b00c361e6ce022c6dc63b7c747cfdd9d28c17943e50bc1855adf36854ce46898
-https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u242-b08/OpenJDK8U-jdk_x64_linux_hotspot_8u242b08.tar.gz
-SHA256:f39b523c724d0e0047d238eb2bb17a9565a60574cf651206c867ee5fc000ab43
-https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u242-b08/OpenJDK8U-jre_x64_linux_hotspot_8u242b08.tar.gz
-SHA256:5edfaefdbb0469d8b24d61c8aef80c076611053b1738029c0232b9a632fe2708
+https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u252-b09/OpenJDK8U-jdk_x64_windows_hotspot_8u252b09.zip
+SHA256:6c6e63cd8448f036d2d34fa6531afebc4572a1197e884ce7222fccde1b1c79a2
+https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u252-b09/OpenJDK8U-jre_x64_windows_hotspot_8u252b09.zip
+SHA256:55f79e116cff39eba0daffa3c9a10048ce95efa7e0ae3a919abdcdda74d48ac2
+https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u252-b09/OpenJDK8U-jdk_x64_linux_hotspot_8u252b09.tar.gz
+SHA256:2b59b5282ff32bce7abba8ad6b9fde34c15a98f949ad8ae43e789bbd78fc8862
+https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u252-b09/OpenJDK8U-jre_x64_linux_hotspot_8u252b09.tar.gz
+SHA256:a93be303ed62398dba9acb0376fb3caf8f488fcde80dc62d0a8e46256b3adfb1
 
 JDK 9
 https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9.0.4%2B11/OpenJDK9U-jdk_x64_windows_hotspot_9.0.4_11.zip
