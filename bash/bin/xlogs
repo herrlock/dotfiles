@@ -1,2 +1,2 @@
 #!/bin/sh
-journalctl --follow --no-hostname --output=with-unit
+exec journalctl --follow --no-hostname --output=with-unit
