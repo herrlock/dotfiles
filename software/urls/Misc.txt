@@ -6,8 +6,10 @@ https://github.com/git-for-windows/git/releases/download/v2.26.2.windows.1/Porta
 SHA256:dd36f76a815b993165e67ad3cbc8f5b2976e5757a0c808a4a92fb72d1000e1c8
 
 KeePass
-https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.44/KeePass-2.44-Setup.exe/download
-SHA256:7a05107a61106c7fa8fbe9982111a32f9690e9e84d17a2dece61938ef16fe1e7
+https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.45/KeePass-2.45-Setup.exe/download
+SHA256:9058cc9d44129e8c2c902e21f8678974b789ecd8f9d6add81c98fbeaf9794e23
+https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.45/KeePass-2.45.zip/download
+SHA256:d414db9d411acbafd4e1b5faa8605ad7a28829f1814ce779142ffbd5ca9c3794
 
 VirtualBox
 https://download.virtualbox.org/virtualbox/6.1.6/VirtualBox-6.1.6-137129-Win.exe
