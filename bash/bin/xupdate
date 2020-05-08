@@ -2,4 +2,6 @@
 
 sudo apt update
 sudo apt-get dist-upgrade
-apt-get-upgrade
+sudo apt-get autoremove
+sudo apt-get autoclean
+apt-get moo
