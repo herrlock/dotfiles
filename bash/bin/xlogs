@@ -1,2 +1,6 @@
 #!/bin/sh
-exec journalctl --follow --no-hostname --output=with-unit
+if which ccze > /dev/null; then
+    journalctl --follow | ccze -m ansi -p syslog
+else
+    exec journalctl --follow --no-hostname --output=with-unit
+fi
