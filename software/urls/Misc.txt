@@ -17,6 +17,14 @@ SHA256:31d001504b56e47d7e90b39a6fde6acf949e8c59d4717abac35eef0b932f89d7
 https://the.earth.li/~sgtatham/putty/latest/w64/putty.zip
 SHA256:b575cc8b2fd9e61f26439787a0d5d2ef5a99f3c4537f9c9d646949a1d64e3531
 
+Python
+https://www.python.org/ftp/python/3.8.2/python-3.8.2-amd64.exe
+SHA256:8e400e3f32cdcb746e62e0db4d3ae4cba1f927141ebc4d0d5a4006b0daee8921
+https://www.python.org/ftp/python/3.8.2/python-3.8.2-embed-amd64.zip
+SHA256:2927a3a6d0fe1f6e047a86059220aeda374eed23113b9ef5355acb8452d56453
+https://www.python.org/ftp/python/3.8.2/python382.chm
+SHA256:88e6a94c30d65e5396631f17a44b0c8bf911565aa15ae84868b3a8ac15934d17
+
 SumatraPDF
 https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2-64-install.exe
 SHA256:36d95dadf36ceae35f49ba0dff47ff628e3433b1150fb5a845f646be67f90198
