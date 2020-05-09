@@ -11,6 +11,12 @@ SHA256:9058cc9d44129e8c2c902e21f8678974b789ecd8f9d6add81c98fbeaf9794e23
 https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.45/KeePass-2.45.zip/download
 SHA256:d414db9d411acbafd4e1b5faa8605ad7a28829f1814ce779142ffbd5ca9c3794
 
+PuTTY
+https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.73-installer.msi
+SHA256:31d001504b56e47d7e90b39a6fde6acf949e8c59d4717abac35eef0b932f89d7
+https://the.earth.li/~sgtatham/putty/latest/w64/putty.zip
+SHA256:b575cc8b2fd9e61f26439787a0d5d2ef5a99f3c4537f9c9d646949a1d64e3531
+
 SumatraPDF
 https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2-64-install.exe
 SHA256:36d95dadf36ceae35f49ba0dff47ff628e3433b1150fb5a845f646be67f90198
