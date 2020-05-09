@@ -11,6 +11,12 @@ SHA256:9058cc9d44129e8c2c902e21f8678974b789ecd8f9d6add81c98fbeaf9794e23
 https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.45/KeePass-2.45.zip/download
 SHA256:d414db9d411acbafd4e1b5faa8605ad7a28829f1814ce779142ffbd5ca9c3794
 
+SumatraPDF
+https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2-64-install.exe
+SHA256:36d95dadf36ceae35f49ba0dff47ff628e3433b1150fb5a845f646be67f90198
+https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2-64.zip
+SHA256:19a210f0fb0bebd9338ab4148a5c710d3e8ea8e57576c1052ecc351972ffa93c
+
 VirtualBox
 https://download.virtualbox.org/virtualbox/6.1.6/VirtualBox-6.1.6-137129-Win.exe
 SHA256:b3fcbf2b403f14d4e0d2f34703854032f76c125f3a8859d4778e6700293e2815
