@@ -1,4 +1,8 @@
 
+7-Zip
+https://www.7-zip.org/a/7z1900-x64.msi
+SHA256:a7803233eedb6a4b59b3024ccf9292a6fffb94507dc998aa67c5b745d197a5dc
+
 Git
 https://github.com/git-for-windows/git/releases/download/v2.26.2.windows.1/Git-2.26.2-64-bit.exe
 SHA256:cdf76510979dace4d3f5368e2f55d4289c405e249399e7ed09049765489da6e8
