@@ -9,6 +9,12 @@ SHA256:cdf76510979dace4d3f5368e2f55d4289c405e249399e7ed09049765489da6e8
 https://github.com/git-for-windows/git/releases/download/v2.26.2.windows.1/PortableGit-2.26.2-64-bit.7z.exe
 SHA256:dd36f76a815b993165e67ad3cbc8f5b2976e5757a0c808a4a92fb72d1000e1c8
 
+Java Decompiler
+https://github.com/java-decompiler/jd-gui/releases/download/v1.6.6/jd-gui-1.6.6.jar
+SHA256:2c9d3efa8b06438a7284139f68f6efcbfb2a11e0b9d20a3370d50189685afc0b
+https://github.com/java-decompiler/jd-gui/releases/download/v1.6.6/jd-gui-windows-1.6.6.zip
+SHA256:79c231399d3d39d14fce7607728336acb47a6e02e9e1c5f2fa16e2450c0c46cb
+
 KeePass
 https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.45/KeePass-2.45-Setup.exe/download
 SHA256:9058cc9d44129e8c2c902e21f8678974b789ecd8f9d6add81c98fbeaf9794e23
