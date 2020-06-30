@@ -37,12 +37,15 @@
 [log]
 	showSignature = true
 #
+[pull]
+	ff = only
+#
 [rebase]
 	autoStash = true
 	missingCommitsCheck = error
 #
 [push]
-	default = nothing
+	default = current
 #
 [gc]
 	auto = 500
