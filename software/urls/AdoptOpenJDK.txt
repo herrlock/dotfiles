@@ -62,11 +62,11 @@ https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk-13.0.2%
 SHA256:897f16fe8e056395209e35d2384013bd1ff250e717465769079e3f4793628c34
 
 JDK 14
-https://github.com/AdoptOpenJDK/openjdk14-binaries/releases/download/jdk-14.0.1%2B7.1/OpenJDK14U-jdk_x64_windows_hotspot_14.0.1_7.zip
-SHA256:935e9121ddc83e5ac82ff73bd7a4b94f25824c7a66964ef7cb3b57098ae05599
-https://github.com/AdoptOpenJDK/openjdk14-binaries/releases/download/jdk-14.0.1%2B7.1/OpenJDK14U-jre_x64_windows_hotspot_14.0.1_7.zip
-SHA256:d183394afee9fe7a6b6793d5a702a2d0732ad12328e62358cb269fe0e887df88
-https://github.com/AdoptOpenJDK/openjdk14-binaries/releases/download/jdk-14.0.1%2B7/OpenJDK14U-jdk_x64_linux_hotspot_14.0.1_7.tar.gz
-SHA256:9ddf9b35996fbd784a53fff3e0d59920a7d5acf1a82d4c8d70906957ac146cd1
-https://github.com/AdoptOpenJDK/openjdk14-binaries/releases/download/jdk-14.0.1%2B7/OpenJDK14U-jre_x64_linux_hotspot_14.0.1_7.tar.gz
-SHA256:3f8a4d5939a66cadf9846bbae6392644165f75063ae31998764916da13810fca
+https://github.com/AdoptOpenJDK/openjdk14-binaries/releases/download/jdk-14.0.2%2B12/OpenJDK14U-jdk_x64_windows_hotspot_14.0.2_12.zip
+SHA256:80926003297bf5afc9357ce24c12aee65483fc7889dc34b65fe08bec4d040611
+https://github.com/AdoptOpenJDK/openjdk14-binaries/releases/download/jdk-14.0.2%2B12/OpenJDK14U-jre_x64_windows_hotspot_14.0.2_12.zip
+SHA256:772733428098e3a1fe1e6a2815e93ef7761046f6846edf2e366250beb14e4d94
+https://github.com/AdoptOpenJDK/openjdk14-binaries/releases/download/jdk-14.0.2%2B12/OpenJDK14U-jdk_x64_linux_hotspot_14.0.2_12.tar.gz
+SHA256:7d5ee7e06909b8a99c0d029f512f67b092597aa5b0e78c109bd59405bbfa74fe
+https://github.com/AdoptOpenJDK/openjdk14-binaries/releases/download/jdk-14.0.2%2B12/OpenJDK14U-jre_x64_linux_hotspot_14.0.2_12.tar.gz
+SHA256:1107845947da56e6bdad0da0b79210a079a74ec5c806f815ec5db9d09e1a9236
