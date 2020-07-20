@@ -42,7 +42,7 @@ https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2-64.zip
 SHA256:19a210f0fb0bebd9338ab4148a5c710d3e8ea8e57576c1052ecc351972ffa93c
 
 VirtualBox
-https://download.virtualbox.org/virtualbox/6.1.8/VirtualBox-6.1.8-137981-Win.exe
-SHA256:28f03359b9db46156628208dcb26572cf258d0803031a97c6533c49fff60dade
-https://download.virtualbox.org/virtualbox/6.1.8/Oracle_VM_VirtualBox_Extension_Pack-6.1.8.vbox-extpack
-SHA256:e609c012305e4ff3c520f36b46d19dab50ecac65228a983fe85c918a1534e490
+https://download.virtualbox.org/virtualbox/6.1.12/VirtualBox-6.1.12-139181-Win.exe
+SHA256:8dd5d00ef67ae96c9b91e9ed4065320bb0ea5927aec3ddadb938bfd0686c2e43
+https://download.virtualbox.org/virtualbox/6.1.12/Oracle_VM_VirtualBox_Extension_Pack-6.1.12.vbox-extpack
+SHA256:8c43fc6ab19fc83ed3c73c6e62f7f02886503cc800d27198e8bee89586b18eda
