@@ -21,6 +21,12 @@ SHA256:9058cc9d44129e8c2c902e21f8678974b789ecd8f9d6add81c98fbeaf9794e23
 https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.45/KeePass-2.45.zip/download
 SHA256:d414db9d411acbafd4e1b5faa8605ad7a28829f1814ce779142ffbd5ca9c3794
 
+Notepad++
+https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.8.9/npp.7.8.9.bin.x64.zip
+SHA256:202780513e4208ca79f7d076742939b4a88677874230348427d71969af157805
+https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.8.9/npp.7.8.9.Installer.x64.exe
+SHA256:e8e866aca5672e91446ce9d965250317e95d2a3d238ea32fa2c378cd315cb85f
+
 PuTTY
 https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.73-installer.msi
 SHA256:31d001504b56e47d7e90b39a6fde6acf949e8c59d4717abac35eef0b932f89d7
