@@ -26,7 +26,7 @@ https://services.gradle.org/distributions/gradle-5.6.4-bin.zip
 SHA256:1f3067073041bc44554d0efe5d402a33bc3d3c93cc39ab684f308586d732a80d
 
 Gradle 6
-https://services.gradle.org/distributions/gradle-6.7.1-all.zip
-SHA256:22449f5231796abd892c98b2a07c9ceebe4688d192cd2d6763f8e3bf8acbedeb
-https://services.gradle.org/distributions/gradle-6.7.1-bin.zip
-SHA256:3239b5ed86c3838a37d983ac100573f64c1f3fd8e1eb6c89fa5f9529b5ec091d
+https://services.gradle.org/distributions/gradle-6.8-all.zip
+SHA256:a7ca23b3ccf265680f2bfd35f1f00b1424f4466292c7337c85d46c9641b3f053
+https://services.gradle.org/distributions/gradle-6.8-bin.zip
+SHA256:e2774e6fb77c43657decde25542dea710aafd78c4022d19b196e7e78d79d8c6c
