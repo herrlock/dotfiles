@@ -7,7 +7,7 @@
 	signingKey = <gpg-key>
 #
 [http]
-	proxy = <proxy>
+	#proxy = <proxy>
 #
 [alias]
 	f = fetch
