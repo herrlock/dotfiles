@@ -10,11 +10,15 @@ if [[ -r gradle/wrapper/gradle-wrapper.properties ]]; then
 			"$bindir"/"gradle-$wrapper_version" "$@"
 		else
 			wrapper_main_version=$(echo $wrapper_version | grep -Eo '^[0-9]+')
-			if [[ $wrapper_main_version && -x $bindir/g$wrapper_main_version ]]; then
-				"$bindir"/"g$wrapper_main_version" "$@"
+			if [[ $wrapper_main_version && -x $bindir/gradle-$wrapper_main_version ]]; then
+				"$bindir"/"gradle-$wrapper_main_version" "$@"
 			fi
 		fi
+	else
+		echo could not read gradle-version from url "$wrapper_url"
+		exit 1
 	fi
 else
 	echo no wrapper
+	exit 1
 fi
