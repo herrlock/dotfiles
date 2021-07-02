@@ -32,7 +32,7 @@ https://services.gradle.org/distributions/gradle-6.9-bin.zip
 SHA256:765442b8069c6bee2ea70713861c027587591c6b1df2c857a23361512560894e
 
 Gradle 7
-https://services.gradle.org/distributions/gradle-7.1-all.zip
-SHA256:a9e356a21595348b6f04b024ed0b08ac8aea6b2ac37e6c0ef58e51549cd7b9cb
-https://services.gradle.org/distributions/gradle-7.1-bin.zip
-SHA256:2debee19271e1b82c6e41137d78e44e6e841035230a1a169ca47fd3fb09ed87b
+https://services.gradle.org/distributions/gradle-7.1.1-all.zip
+SHA256:9bb8bc05f562f2d42bdf1ba8db62f6b6fa1c3bf6c392228802cc7cb0578fe7e0
+https://services.gradle.org/distributions/gradle-7.1.1-bin.zip
+SHA256:bf8b869948901d422e9bb7d1fa61da6a6e19411baa7ad6ee929073df85d6365d
