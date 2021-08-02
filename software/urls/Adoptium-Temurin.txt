@@ -1,0 +1,20 @@
+
+https://adoptium.net/archive.html
+
+JDK 8
+https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u302-b08/OpenJDK8U-jdk_x64_windows_hotspot_8u302b08.zip
+SHA256:3df3ebee978f5c9e9b4e34a74ce8d4b0c8f5bb7dfa83f2b315129c1eee6b70c4
+https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u302-b08/OpenJDK8U-jdk_x64_linux_hotspot_8u302b08.tar.gz
+SHA256:cc13f274becf9dd5517b6be583632819dfd4dd81e524b5c1b4f406bdaf0e063a
+
+JDK 11
+https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.12%2B7/OpenJDK11U-jdk_x64_windows_hotspot_11.0.12_7.zip
+SHA256:c54123dd4b0d6473221539e7003b8ca1c1757c5588c46465565b03bf8781f807
+https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.12%2B7/OpenJDK11U-jdk_x64_linux_hotspot_11.0.12_7.tar.gz
+SHA256:8770f600fc3b89bf331213c7aa21f8eedd9ca5d96036d1cd48cb2748a3dbefd2
+
+JDK 16
+https://github.com/adoptium/temurin16-binaries/releases/download/jdk-16.0.2%2B7/OpenJDK16U-jdk_x64_windows_hotspot_16.0.2_7.zip
+SHA256:40191ffbafd8a6f9559352d8de31e8d22a56822fb41bbcf45f34e3fd3afa5f9e
+https://github.com/adoptium/temurin16-binaries/releases/download/jdk-16.0.2%2B7/OpenJDK16U-jdk_x64_linux_hotspot_16.0.2_7.tar.gz
+SHA256:323d6d7474a359a28eff7ddd0df8e65bd61554a8ed12ef42fd9365349e573c2c
