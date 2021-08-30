@@ -7,6 +7,12 @@ SHA256:3df3ebee978f5c9e9b4e34a74ce8d4b0c8f5bb7dfa83f2b315129c1eee6b70c4
 https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u302-b08/OpenJDK8U-jdk_x64_linux_hotspot_8u302b08.tar.gz
 SHA256:cc13f274becf9dd5517b6be583632819dfd4dd81e524b5c1b4f406bdaf0e063a
 
+JRE 8
+https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u302-b08/OpenJDK8U-jre_x64_windows_hotspot_8u302b08.zip
+SHA256:4a9943a2c2e929728e3c31a213c80d36b186b085b401a8c6313101bd7a28c046
+https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u302-b08/OpenJDK8U-jre_x64_linux_hotspot_8u302b08.tar.gz
+SHA256:a74e63657ad04151a8f95202071d2895f1cc9295c910ad3c361ff1cc27395107
+
 JDK 11
 https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.12%2B7/OpenJDK11U-jdk_x64_windows_hotspot_11.0.12_7.zip
 SHA256:c54123dd4b0d6473221539e7003b8ca1c1757c5588c46465565b03bf8781f807
