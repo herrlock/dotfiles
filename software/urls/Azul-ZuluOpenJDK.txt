@@ -8,10 +8,10 @@ https://cdn.azul.com/zulu/bin/zulu6.22.0.3-jdk6.0.119-linux_x64.tar.gz
 SHA256:dd4765b45d9f1fc319a6e5be0bbc79371582daa8fd77872d51072f16deca2625
 
 JDK 7
-https://cdn.azul.com/zulu/bin/zulu7.48.0.11-ca-jdk7.0.312-win_x64.zip
-SHA256:81dc2a04ebaa879edd19f8aa213250aaa833eb58252b2161ad891c29a6935009
-https://cdn.azul.com/zulu/bin/zulu7.48.0.11-ca-jdk7.0.312-linux_x64.tar.gz
-SHA256:c21e30c6a7c0bba75bb9b5ab7933a6ca65db1947e03842278a363f582445c890
+https://cdn.azul.com/zulu/bin/zulu7.50.0.11-ca-jdk7.0.322-win_x64.zip
+SHA256:b603e2aaafcdac9bd41ca1333de19420317758a82c54c1bbef9152c3be8e4b12
+https://cdn.azul.com/zulu/bin/zulu7.50.0.11-ca-jdk7.0.322-linux_x64.tar.gz
+SHA256:68ac226429904f208a9b873898d2aa6fce3c900c4da8304d589d0b753634bb10
 
 JDK 8
 https://cdn.azul.com/zulu/bin/zulu8.56.0.21-ca-jdk8.0.302-win_x64.zip
