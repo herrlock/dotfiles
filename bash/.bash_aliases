@@ -1,4 +1,6 @@
 
+## simple aliases
+
 alias rm="rm -I"
 
 alias ll="ls -lAh"
@@ -10,9 +12,20 @@ alias grep='grep --color=auto'
 
 alias g=gradle
 
-function concat { local IFS="$1"; shift; echo "$*"; }
-function title { echo -e '\033]2;'$*'\007'; }
+## functions
 
+# concatenate the given values
+function concat {
+	local IFS="$1"
+	shift
+	echo "$*"
+}
+# set title of terminal
+function title {
+	echo -e '\033]2;'$*'\007'
+}
+
+# include .bash_aliases_local if it exists
 if [ -f ~/.bash_aliases_local ]; then
 	. ~/.bash_aliases_local
 fi
