@@ -2,6 +2,7 @@
 alias rm="rm -I"
 
 alias ll="ls -lAh"
+alias ld="ll -d"
 alias lg='ll --group-directories-first'
 
 alias c='clear'
