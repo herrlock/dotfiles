@@ -4,10 +4,10 @@ https://www.7-zip.org/a/7z1900-x64.msi
 SHA256:a7803233eedb6a4b59b3024ccf9292a6fffb94507dc998aa67c5b745d197a5dc
 
 Git
-https://github.com/git-for-windows/git/releases/download/v2.33.1.windows.1/Git-2.33.1-64-bit.exe
-SHA256:b1b69fcf56d50199536f7e6fc79b75ab16734d4d9a4b85c8e931596f02dd0688
-https://github.com/git-for-windows/git/releases/download/v2.33.1.windows.1/PortableGit-2.33.1-64-bit.7z.exe
-SHA256:723c879eb447583b893aa3234eae8caaa77d9d3ecf90883271fba98e8b2d99ac
+https://github.com/git-for-windows/git/releases/download/v2.34.0.windows.1/Git-2.34.0-64-bit.exe
+SHA256:2a833d15f97539e845b3883e375a8a152e8199b63ac345282d80f834f7d6a9b6
+https://github.com/git-for-windows/git/releases/download/v2.34.0.windows.1/PortableGit-2.34.0-64-bit.7z.exe
+SHA256:12f6aed40fdf2d409dc61d5d1626eed97b0e818549d92626bfffdd7bc580855c
 
 Java Decompiler
 https://github.com/java-decompiler/jd-gui/releases/download/v1.6.6/jd-gui-1.6.6.jar
