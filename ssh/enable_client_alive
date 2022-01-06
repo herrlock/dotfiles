@@ -1,4 +1,3 @@
 #!/bin/bash
 
-patch /etc/ssh/sshd_config sshd_config.diff
-
+cp sshd_client_alive.conf /etc/ssh/sshd_config.d
