@@ -26,13 +26,13 @@ https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.14%2B9
 SHA256:f9c0b0c5f379f57424a1cb9fb304003aeb827817d8b12164388792e145011480
 
 JDK 17
-https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.1%2B12/OpenJDK17U-jdk_x64_windows_hotspot_17.0.1_12.zip
-SHA256:e5419773052ac6479ff211d5945f8625e0cdb036e69c0f71affaf02d5dc9aa0b
-https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.1%2B12/OpenJDK17U-jdk_x64_linux_hotspot_17.0.1_12.tar.gz
-SHA256:6ea18c276dcbb8522feeebcfc3a4b5cb7c7e7368ba8590d3326c6c3efc5448b6
+https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.2%2B8/OpenJDK17U-jdk_x64_windows_hotspot_17.0.2_8.zip
+SHA256:d083479ca927dce2f586f779373d895e8bf668c632505740279390384edf03fa
+https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.2%2B8/OpenJDK17U-jdk_x64_linux_hotspot_17.0.2_8.tar.gz
+SHA256:288f34e3ba8a4838605636485d0365ce23e57d5f2f68997ac4c2e4c01967cd48
 
 JRE 17
-https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.1%2B12/OpenJDK17U-jre_x64_windows_hotspot_17.0.1_12.zip
-SHA256:14e36001bddb80379afb993e54366385e4d9a9daaee1117bf857f3840c53ddbc
-https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.1%2B12/OpenJDK17U-jre_x64_linux_hotspot_17.0.1_12.tar.gz
-SHA256:9d58cb741509a88e0ae33eb022334fb900b409b198eca6fe76246f0677b392ad
+https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.2%2B8/OpenJDK17U-jre_x64_windows_hotspot_17.0.2_8.zip
+SHA256:c3204a19aede95ed02ad0f427210855a951d845ab7f806fb56b774daf2572454
+https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.2%2B8/OpenJDK17U-jre_x64_linux_hotspot_17.0.2_8.tar.gz
+SHA256:292ed702d95f5690e52e171afe9f3050b9d2fb803456b155c831735fad0f17c0
