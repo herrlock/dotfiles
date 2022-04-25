@@ -26,16 +26,16 @@ https://cdn.azul.com/zulu/bin/zulu8.62.0.19-ca-jre8.0.332-linux_x64.tar.gz
 SHA256:87b46ddc541d53ff402d123ad2ee8019f60ba83cd56bba26f4d247c415b4c6d8
 
 JDK 11
-https://cdn.azul.com/zulu/bin/zulu11.54.25-ca-jdk11.0.14.1-win_x64.zip
-SHA256:5ec3687f4e881d776376e9126e7484e9fed7a16865b40dfe9aa63d030219358f
-https://cdn.azul.com/zulu/bin/zulu11.54.25-ca-jdk11.0.14.1-linux_x64.tar.gz
-SHA256:60e65d32e38876f81ddb623e87ac26c820465b637e263e8bed1acdecb4ca9be2
+https://cdn.azul.com/zulu/bin/zulu11.56.19-ca-jdk11.0.15-win_x64.zip
+SHA256:a106c77389a63b6bd963a087d5f01171bd32aa3ee7377ecef87531390dcb9050
+https://cdn.azul.com/zulu/bin/zulu11.56.19-ca-jdk11.0.15-linux_x64.tar.gz
+SHA256:e064b61d93304012351242bf0823c6a2e41d9e28add7ea7f05378b7243d34247
 
 JRE 11
-https://cdn.azul.com/zulu/bin/zulu11.54.25-ca-jre11.0.14.1-win_x64.zip
-SHA256:8fa2d3f40b0cd6fa28913ab2e7b032a8dd82b62f7db59904ac8e3bad902384a8
-https://cdn.azul.com/zulu/bin/zulu11.54.25-ca-jre11.0.14.1-linux_x64.tar.gz
-SHA256:ddc9c3aa34dc87d872ca2f4a909db20c6a388abdf5b87220cb21cf1434d4630b
+https://cdn.azul.com/zulu/bin/zulu11.56.19-ca-jre11.0.15-win_x64.zip
+SHA256:0bceff389f0c9e19abacfa0d092905aef0219db9843441e1eeb316cfe062dc23
+https://cdn.azul.com/zulu/bin/zulu11.56.19-ca-jre11.0.15-linux_x64.tar.gz
+SHA256:a98ab0d16a282e00f1417462414b14befd148e0e5af6d92e3273c54a99efd4ac
 
 JDK 17
 https://cdn.azul.com/zulu/bin/zulu17.32.13-ca-jdk17.0.2-win_x64.zip
