@@ -1,9 +1,9 @@
 
-7-Zip
-https://www.7-zip.org/a/7z2107-x64.exe
-SHA256:0b461f0a0eccfc4f39733a80d70fd1210fdd69f600fb6b657e03940a734e5fc1
-https://www.7-zip.org/a/7z2107-x64.msi
-SHA256:5447c9ac39c48f1bc7c88359b0520396a8c9707b307c107236a93a68e6fd3eb6
+7-Zip (https://www.7-zip.org/)
+https://www.7-zip.org/a/7z2200-x64.exe
+SHA256:0b01c258a2e9857de86bd845deef59953cff283e6ed030dba3da529262484b00
+https://www.7-zip.org/a/7z2200-x64.msi
+SHA256:5c6e1cc0a09de58131707c332add6e30cd299383999b8f047a90335f8066e217
 
 Git
 https://github.com/git-for-windows/git/releases/download/v2.37.0.windows.1/Git-2.37.0-64-bit.exe
