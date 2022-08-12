@@ -11,7 +11,7 @@ SHA256:6f91f1bb28b222f30c13f905a5e9b0ad491e67c28a37a238000def19f86e0a2f
 https://github.com/git-for-windows/git/releases/download/v2.37.2.windows.2/PortableGit-2.37.2.2-64-bit.7z.exe
 SHA256:20d9b7e8e8b8b4f27d16420597772e19e7cb1f396b355473867942ed86d0d931
 
-Java Decompiler
+Java Decompiler (https://java-decompiler.github.io/)
 https://github.com/java-decompiler/jd-gui/releases/download/v1.6.6/jd-gui-1.6.6.jar
 SHA256:2c9d3efa8b06438a7284139f68f6efcbfb2a11e0b9d20a3370d50189685afc0b
 https://github.com/java-decompiler/jd-gui/releases/download/v1.6.6/jd-gui-windows-1.6.6.zip
