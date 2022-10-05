@@ -35,13 +35,13 @@ SHA256:129df585291d28ec179bc715a3f8ec34c5ed5d66fd051a6a4b9dc9c537cb3aee
 https://the.earth.li/~sgtatham/putty/0.76/w64/putty.zip
 SHA256:48f28aa050a1b5ebe37c88d7fcf97401f931321775a3a95d983aee7097d2766d
 
-Python
-https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe
-SHA256:42b181e9b5f424472212742a187260d4edc73b7683ae83460c974508130e08ad
-https://www.python.org/ftp/python/3.10.2/python-3.10.2-embed-amd64.zip
-SHA256:13870c11100e9cb6fd8abd771330c76aea1cdbce31b2e6ecc98363db42bd1a66
-https://www.python.org/ftp/python/3.10.2/python3102.chm
-SHA256:71b6212c97ced84e224508f64efdf5055d76442fa35b780838d9875748c24d30
+Python (https://www.python.org/downloads/)
+https://www.python.org/ftp/python/3.10.7/python-3.10.7-amd64.exe
+SHA256:f9093d80691097eb7a23da09045fcb12d1543a22a5b84e1eb29b1730fb76040c
+https://www.python.org/ftp/python/3.10.7/python-3.10.7-embed-amd64.zip
+SHA256:b885cbc7cc354afa31ac01d804c552ec9a91de855f46e44a805fc7e74a6bf089
+https://www.python.org/ftp/python/3.10.7/python3107.chm
+SHA256:5a0b6bccad7099f7caf4131070333e4a2fa44e1e127b790655caadc3180a3376
 
 SumatraPDF
 https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2-64-install.exe
