@@ -57,3 +57,8 @@ SHA256:052f26cf8c619b1aa0cad94c05ece0c1ae326248b4746c95e1deb0729ae4417a
 https://download.virtualbox.org/virtualbox/6.1.38/UserManual.pdf
 SHA256:3e52f4400fb809a78dc1117a190929973c5dd44d24c431cec0de679ce5321bc7
 
+WinSCP (https://winscp.net/eng/downloads.php)
+https://winscp.net/download/WinSCP-5.21.5-Setup.exe
+SHA256:e141e9a1a0094095d5e26077311418a01dac429e68d3ff07a734385eb0172bea
+https://winscp.net/download/WinSCP-5.21.5-Portable.zip
+SHA256:687cb70964a5c5664c9c794d184dbcd9c384c967357e6076f08ac7b914468a07
