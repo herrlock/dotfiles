@@ -1,9 +1,9 @@
 
 7-Zip (https://www.7-zip.org/)
-https://www.7-zip.org/a/7z2200-x64.exe
-SHA256:0b01c258a2e9857de86bd845deef59953cff283e6ed030dba3da529262484b00
-https://www.7-zip.org/a/7z2200-x64.msi
-SHA256:5c6e1cc0a09de58131707c332add6e30cd299383999b8f047a90335f8066e217
+https://www.7-zip.org/a/7z2201-x64.exe
+SHA256:b055fee85472921575071464a97a79540e489c1c3a14b9bdfbdbab60e17f36e4
+https://www.7-zip.org/a/7z2201-x64.msi
+SHA256:f4afba646166999d6090b5beddde546450262dc595dddeb62132da70f70d14ca
 
 Git (https://github.com/git-for-windows/git)
 https://github.com/git-for-windows/git/releases/download/v2.39.0.windows.2/Git-2.39.0.2-64-bit.exe
