@@ -18,10 +18,10 @@ https://github.com/java-decompiler/jd-gui/releases/download/v1.6.6/jd-gui-window
 SHA256:79c231399d3d39d14fce7607728336acb47a6e02e9e1c5f2fa16e2450c0c46cb
 
 KeePass (https://keepass.info)
-https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.51.1/KeePass-2.51.1-Setup.exe/download
-SHA256:6fb6a206c2c68514dad5048e82b28105fc7fa5a967033c6d402aeacfe09a974a
-https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.51.1/KeePass-2.51.1.zip/download
-SHA256:c2db4799075dc6a35c64a3703053a29f3f3412066955129e9c5f6712a9b56e1b
+https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.53/KeePass-2.53-Setup.exe/download
+SHA256:bbe39eb55f720a0549b4457b73991f3c42f6610dde86a00d94f5cfb87472df07
+https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.53/KeePass-2.53.zip/download
+SHA256:dca1b9709a87ba67ecef890580c0b2ad6e3acf38546a642cafe36d7062e40ad4
 
 Notepad++ (https://notepad-plus-plus.org/)
 https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.8/npp.8.4.8.Installer.x64.exe
