@@ -24,10 +24,10 @@ https://sourceforge.net/projects/keepass/files/KeePass%202.x/2.53.1/KeePass-2.53
 SHA256:a8b59e3b874c914a93092b4cb3ff708d67fd36c64b9eb37c83cc4bbd389fdd3e
 
 Notepad++ (https://notepad-plus-plus.org/)
-https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.8/npp.8.4.8.Installer.x64.exe
-SHA256:d21718a11bc71b3f0a65d148488ddf8130c2ec80d80fb9af1cb002aefde9648e
-https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.4.8/npp.8.4.8.portable.x64.zip
-SHA256:29eba8e7760db4b30d9d664b3de66b33c855036c579a306ede73c651453a4409
+https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.3/npp.8.5.3.Installer.x64.exe
+SHA256:90e1c08bee6b46a41713b1a612ed2b64e647194d9e4e9df40639d7a8cae94074
+https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.3/npp.8.5.3.portable.x64.zip
+SHA256:e3dcd71e32b11ca32c66e5187c2d4191401f885afbe068163ad8b054da362de3
 
 PuTTY (https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 https://the.earth.li/~sgtatham/putty/0.76/w64/putty-64bit-0.76-installer.msi
