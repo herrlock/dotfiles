@@ -1,16 +1,22 @@
 
 ## simple aliases
 
+# light-confirmations before "bigger" removals
 alias rm="rm -I"
 
+# aliases for ls
 alias ll="ls -lAh"
 alias ld="ll -d"
 alias lg='ll --group-directories-first'
 
+# too lazy...
 alias c='clear'
-alias grep='grep --color=auto'
+# common typos
+alias clera=clear
+alias celar=clear
 
-alias g=gradle
+# always grep with colour
+alias grep='grep --color=auto'
 
 ## functions
 
@@ -26,14 +32,15 @@ function title {
 }
 # run htop at the given host
 function sshtop() {
-	test "$1" \
-	&& ssh "$1" exit \
-	&& printf '\033]0;%s htop\a' "$1" \
-	&& exec ssh -t "$1" htop
+	set -x &&
+	test "$1" &&
+	ssh "$1" exit &&
+	set +x &&
+	printf '\033]0;%s htop\a' "$1" &&
+	exec ssh -t "$1" htop
 }
 
 # include .bash_aliases_local if it exists
 if [ -f ~/.bash_aliases_local ]; then
 	. ~/.bash_aliases_local
 fi
-
