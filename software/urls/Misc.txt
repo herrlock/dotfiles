@@ -50,12 +50,12 @@ https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2-64.zip
 SHA256:19a210f0fb0bebd9338ab4148a5c710d3e8ea8e57576c1052ecc351972ffa93c
 
 VirtualBox
-https://download.virtualbox.org/virtualbox/7.0.8/VirtualBox-7.0.8-156879-Win.exe
-SHA256:8a2da26ca69c1ddfc50fb65ee4fa8f269e692302046df4e2f48948775ba6339a
-https://download.virtualbox.org/virtualbox/7.0.8/Oracle_VM_VirtualBox_Extension_Pack-7.0.8.vbox-extpack
-SHA256:452320f3b1da42b30c32ea5ab5887983b575638ceb4e3beacfefbbb3b0510a48
-https://download.virtualbox.org/virtualbox/7.0.8/UserManual.pdf
-SHA256:7b0049dd2580ee9b3a74ee8d5b5c83d65583391683c821bddd8f75e15cdb791e
+https://download.virtualbox.org/virtualbox/7.0.10/VirtualBox-7.0.10-158379-Win.exe
+SHA256:62545b8eb17ddf27d5954ac5f8904814e12c5790d73daf545ef60bd97f4f2e12
+https://download.virtualbox.org/virtualbox/7.0.10/Oracle_VM_VirtualBox_Extension_Pack-7.0.10.vbox-extpack
+SHA256:af84dccac488df72bfaeb1eb8c922ba466668561a6ac05c64a7f8b6ebdddbaeb
+https://download.virtualbox.org/virtualbox/7.0.10/UserManual.pdf
+SHA256:c0b39f7d5cb1f94327c1d260a08668ec11427ca5be3536945de897a866c4c32b
 
 WinSCP (https://winscp.net/eng/downloads.php)
 https://winscp.net/download/WinSCP-6.1.1-Setup.exe
