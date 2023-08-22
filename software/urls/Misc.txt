@@ -5,6 +5,10 @@ SHA256:b055fee85472921575071464a97a79540e489c1c3a14b9bdfbdbab60e17f36e4
 https://www.7-zip.org/a/7z2201-x64.msi
 SHA256:f4afba646166999d6090b5beddde546450262dc595dddeb62132da70f70d14ca
 
+Aria2 (https://github.com/aria2/aria2)
+https://github.com/aria2/aria2/releases/download/release-1.36.0/aria2-1.36.0-win-64bit-build1.zip
+SHA256:c82df5415125b438d72443923fea7f5f9fda1f326d0dbfac6aab16d58dbb7bf0
+
 Git (https://github.com/git-for-windows/git)
 https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.1/Git-2.42.0-64-bit.exe
 SHA256:ce95be32ae58fee3ada7b997c519b60d60c6fb1bda7a305336103881de724902
