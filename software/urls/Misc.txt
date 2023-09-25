@@ -62,7 +62,7 @@ https://download.virtualbox.org/virtualbox/7.0.10/UserManual.pdf
 SHA256:c0b39f7d5cb1f94327c1d260a08668ec11427ca5be3536945de897a866c4c32b
 
 WinSCP (https://winscp.net/eng/downloads.php)
-https://winscp.net/download/WinSCP-6.1.1-Setup.exe
-SHA256:81244062a2de4adc52ae10393b7a3a33985a7e5bea376b839ab0477d6c7fd5e1
-https://winscp.net/download/WinSCP-6.1.1-Portable.zip
-SHA256:422ea208df18d288767d68ce7ebc7ac01c850eeee66c285f3e17505bb8c36229
+https://winscp.net/download/files/202309250707957f4fe0baf1dde1a62986f582163581/WinSCP-6.1.2-Setup.exe
+SHA256:36cc31f0ab65b745f25c7e785df9e72d1c8919d35a1d7bd4ce8050c8c068b13c
+https://winscp.net/download/files/202309250707957f4fe0baf1dde1a62986f582163581/WinSCP-6.1.2-Portable.zip
+SHA256:3db0625fbf6a7aa57d3432480bee2be4849af5d89ad38117eef0acc778458fb0
