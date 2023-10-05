@@ -54,11 +54,11 @@ https://services.gradle.org/distributions/gradle-7.6.3-src.zip
 SHA256:5ba558d8001608f3285d16f2f972e95545d9593858e677498666b9aa7a1059e5
 
 Gradle 8
-https://services.gradle.org/distributions/gradle-8.3-all.zip
-SHA256:bb09982fdf52718e4c7b25023d10df6d35a5fff969860bdf5a5bd27a3ab27a9e
-https://services.gradle.org/distributions/gradle-8.3-bin.zip
-SHA256:591855b517fc635b9e04de1d05d5e76ada3f89f5fc76f87978d1b245b4f69225
-https://services.gradle.org/distributions/gradle-8.3-docs.zip
-SHA256:a17c29170cf9f06772d0897ce95494191af892c74478bc514ef7903feb3bdb38
-https://services.gradle.org/distributions/gradle-8.3-src.zip
-SHA256:283bff7a2e83113216aba791aeca8c102da4ce7141a6a7dd232edac867ab3325
+https://services.gradle.org/distributions/gradle-8.4-all.zip
+SHA256:f2b9ed0faf8472cbe469255ae6c86eddb77076c75191741b4a462f33128dd419
+https://services.gradle.org/distributions/gradle-8.4-bin.zip
+SHA256:3e1af3ae886920c3ac87f7a91f816c0c7c436f276a6eefdb3da152100fef72ae
+https://services.gradle.org/distributions/gradle-8.4-docs.zip
+SHA256:311a793ed209931d01836cfd4fdcff92e80c8765661694a0612a3eb49730a19b
+https://services.gradle.org/distributions/gradle-8.4-src.zip
+SHA256:8c6dbc4a3d9118bf16aa120106d4dfb06950a195b15715cf4843415637d2ab5a
