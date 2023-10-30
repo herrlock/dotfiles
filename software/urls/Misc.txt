@@ -46,10 +46,10 @@ https://www.python.org/ftp/python/3.12.0/python-3.12.0-embed-amd64.zip
 SHA256:c87f000e3dae1a572e98e81daeb622f8bc6f22664093fc9c70989b5f0018d49b
 
 SumatraPDF
-https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2-64-install.exe
-SHA256:36d95dadf36ceae35f49ba0dff47ff628e3433b1150fb5a845f646be67f90198
-https://www.sumatrapdfreader.org/dl2/SumatraPDF-3.2-64.zip
-SHA256:19a210f0fb0bebd9338ab4148a5c710d3e8ea8e57576c1052ecc351972ffa93c
+https://www.sumatrapdfreader.org/dl/rel/3.5.2/SumatraPDF-3.5.2-64-install.exe
+SHA256:2be4a27b83830ea07c6671c3557673d509544e5f70fc6b2dc8cc4388b302c1f2
+https://www.sumatrapdfreader.org/dl/rel/3.5.2/SumatraPDF-3.5.2-64.zip
+SHA256:66ccb395c9184dce6822dfbb9970c877383b3ead6d9417b5106a844aac512989
 
 VirtualBox
 https://download.virtualbox.org/virtualbox/7.0.12/VirtualBox-7.0.12-159484-Win.exe
