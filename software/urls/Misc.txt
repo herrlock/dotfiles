@@ -10,10 +10,10 @@ https://github.com/aria2/aria2/releases/download/release-1.36.0/aria2-1.36.0-win
 SHA256:c82df5415125b438d72443923fea7f5f9fda1f326d0dbfac6aab16d58dbb7bf0
 
 Git (https://github.com/git-for-windows/git)
-https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-64-bit.exe
-SHA256:bd9b41641a258fd16d99beecec66132160331d685dfb4c714cea2bcc78d63bdb
-https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/PortableGit-2.42.0.2-64-bit.7z.exe
-SHA256:9254a4a0c597f1c4700cb607cedd83aef2215c289a3b2b1b7475cf58d51c005e
+https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.exe
+SHA256:a6058d7c4c16bfa5bcd6fde051a92de8c68535fd7ebade55fc0ab1c41be3c8d5
+https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/PortableGit-2.43.0-64-bit.7z.exe
+SHA256:c76216d032685fa972d129eca30f8c9fb957eb9f46ccbce954e70e07d6211961
 
 Java Decompiler (https://java-decompiler.github.io/)
 https://github.com/java-decompiler/jd-gui/releases/download/v1.6.6/jd-gui-1.6.6.jar
